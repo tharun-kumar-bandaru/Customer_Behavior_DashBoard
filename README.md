@@ -48,8 +48,8 @@ Shipping_Type	        Standard, Express, Same Day, etc.
 
 Python – Data Cleaning & Analysis 
 Libraries Used
-pandas
-numpy
+pandas pd
+numpy np
 matplotlib
 
 Key Steps
